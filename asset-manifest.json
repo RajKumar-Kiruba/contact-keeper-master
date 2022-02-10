@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contact-keeper-master/static/css/main.9677e7c1.chunk.css",
+    "main.js": "/contact-keeper-master/static/js/main.c5aabecf.chunk.js",
+    "main.js.map": "/contact-keeper-master/static/js/main.c5aabecf.chunk.js.map",
+    "runtime-main.js": "/contact-keeper-master/static/js/runtime-main.22c78038.js",
+    "runtime-main.js.map": "/contact-keeper-master/static/js/runtime-main.22c78038.js.map",
+    "static/js/2.ab52b2bb.chunk.js": "/contact-keeper-master/static/js/2.ab52b2bb.chunk.js",
+    "static/js/2.ab52b2bb.chunk.js.map": "/contact-keeper-master/static/js/2.ab52b2bb.chunk.js.map",
+    "index.html": "/contact-keeper-master/index.html",
+    "static/css/main.9677e7c1.chunk.css.map": "/contact-keeper-master/static/css/main.9677e7c1.chunk.css.map",
+    "static/js/2.ab52b2bb.chunk.js.LICENSE.txt": "/contact-keeper-master/static/js/2.ab52b2bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c78038.js",
+    "static/js/2.ab52b2bb.chunk.js",
+    "static/css/main.9677e7c1.chunk.css",
+    "static/js/main.c5aabecf.chunk.js"
+  ]
+}
